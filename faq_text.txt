@@ -1,0 +1,62 @@
+Q: What is MedUrgency?
+A: MedUrgency is an AI-powered platform designed to assist doctors with patient diagnostics and provide patients with seamless access to their health reports. It offers three main tools: cardiovascular disease prediction, lung X-ray analysis for pneumonia, and ocular recognition for eye disease analysis.
+
+Q: How do the prediction tools work?
+A: Each tool uses advanced machine learning models trained on medical data to analyze health indicators. For example, our cardiovascular prediction model assesses patient data for cardiovascular risk, while the X-ray and ocular recognition tools analyze images to detect signs of pneumonia or potential eye conditions.
+
+Q: Can patients directly access their diagnostic results?
+A: Yes! Patients no longer need to pick up their reports in person. MedUrgency provides a secure portal where you can access your reports once they are ready.
+
+Q: How do I upload a lung X-ray or eye photo?
+A: For doctors, uploading patient data is simple. Navigate to the relevant analysis section, select the type of image (e.g., X-ray or ocular photo), and follow the upload instructions. Results are generated promptly and securely.
+
+Q: Is MedUrgency’s analysis reliable?
+A: Yes. Our models are trained with extensive medical data and evaluated by medical professionals. However, MedUrgency’s tools are designed to assist with diagnostics and should be used in conjunction with professional medical advice.
+
+Q: Does MedUrgency offer any predictive analysis for heart conditions?
+A: Yes. Our cardiovascular model provides an assessment based on the patient’s data, offering valuable insights for heart disease risk management.
+
+Q: How secure is my data?
+A: MedUrgency prioritizes your data privacy and security. All data is encrypted and handled following strict confidentiality guidelines to ensure it remains safe and accessible only to authorized personnel.
+
+Q: How does the virtual chatbot assist users?
+A: Our chatbot is designed to assist with FAQs, symptom input, and basic diagnostics. By inputting symptoms, you’ll receive insights into potential health concerns that should be discussed with a medical professional.
+
+Q: What is the role of on-demand AI in MedUrgency?
+A: On-demand AI provides real-time assistance to both doctors and patients, answering questions and helping with basic health insights. This feature is available in the FAQ section, powered by a fine-tuned LLM to address common queries.
+
+Q: Who can use MedUrgency?
+A: MedUrgency is designed for both healthcare professionals and patients. Doctors can use it for diagnostics, while patients can access their health reports and information.
+
+Q: What types of health conditions can MedUrgency help diagnose?
+A: MedUrgency primarily focuses on cardiovascular diseases, pneumonia through lung X-ray analysis, and various eye diseases through ocular recognition.
+
+Q: Is there a mobile app for MedUrgency?
+A: Yes! MedUrgency offers a mobile app for both Android and iOS, allowing users to access their health reports and diagnostic tools on the go.
+
+Q: Can MedUrgency provide recommendations for treatment?
+A: While MedUrgency can offer insights based on its analyses, it does not provide treatment recommendations. Always consult a healthcare professional for treatment advice.
+
+Q: How often is the AI model updated?
+A: Our AI models are regularly updated with new medical data and findings to ensure the highest accuracy and reliability in diagnostics.
+
+Q: What happens if I encounter an error while uploading images?
+A: If you encounter any errors during the upload process, please check the image format and size. If issues persist, contact our support team for assistance.
+
+Q: Can I view my past health reports?
+A: Yes, MedUrgency allows patients to access their historical health reports through the secure portal, enabling them to track their health over time.
+
+Q: Is there a customer support feature available?
+A: Yes! MedUrgency offers customer support through the app and website. Users can reach out via chat or email for any inquiries or assistance.
+
+Q: What should I do if I have more specific health concerns?
+A: If you have specific health concerns, it is important to consult a medical professional. MedUrgency is a tool to assist with diagnostics, but it is not a substitute for professional medical advice.
+
+Q: How do I provide feedback on the MedUrgency platform?
+A: We welcome feedback! Users can submit their feedback through the app or website's feedback section, helping us improve our services continuously.
+
+Q: Can I share my health reports with my doctor?
+A: Yes, patients can securely share their health reports with their doctors through the MedUrgency platform, facilitating better communication and care.
+
+Q: Is MedUrgency available in multiple languages?
+A: Currently, MedUrgency is available in English. Future updates may include additional languages based on user demand.
