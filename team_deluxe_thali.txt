@@ -1,0 +1,14 @@
+Q: Who is Team Deluxe Thali?
+A: Team Deluxe Thali is a group of dedicated developers and medical professionals working together to create innovative healthcare solutions, including the MedUrgency platform.
+
+Q: What are the roles of the team members?
+A: Our team comprises software developers, data scientists, and healthcare experts, each contributing their unique skills to enhance the functionality and reliability of our services.
+
+Q: What inspired Team Deluxe Thali to create MedUrgency?
+A: We aimed to improve patient diagnostics and streamline access to health information. Our motivation is to leverage technology to make healthcare more efficient and accessible for everyone.
+
+Q: How can I contact Team Deluxe Thali for inquiries?
+A: You can reach out to us through the contact form on the MedUrgency website or directly via email at contact@deluxethali.com.
+
+Q: What future projects is Team Deluxe Thali working on?
+A: We are continually exploring new ideas and technologies to enhance our existing services and create new solutions that address emerging healthcare challenges.
